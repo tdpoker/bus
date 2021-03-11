@@ -71,7 +71,7 @@ $(document).ready(function () {});
 	$(document).ready(jqUpdateSize);
     $(window).resize(jqUpdateSize);
         });
-	else if (document.URL.indexOf("?content=promosi") > 0) {
+	} else if (document.URL.indexOf("?content=promosi") > 0) {
         $(document).ready(function () {
             
         });
